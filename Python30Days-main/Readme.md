@@ -99,23 +99,6 @@ Before diving into this roadmap, here's a suggested course structure:
 4. **Exploration**: Beyond this roadmap, explore other Python libraries and projects that interest you.
 
 By following this structured approach, you'll gradually build your Python proficiency and gain confidence in your programming skills.
-
----
-
-## 📖 BONUS: My Book
-- Python Learning Roadmap in 30 Days: [here](https://github.com/HalilDeniz/Python30Days)
-- You can look here for the Practical [Posts I share.](https://www.buymeacoffee.com/halildeniz/posts)
-- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
-- Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
-- Python articles for you on our site - [Click here](https://denizhalil.com/category/python/)
-- Programming articles you on our site - [Click here](https://denizhalil.com/category/programming/)
----
-
-## 📬 How Can You Provide Feedback?
-1. **Reporting a Problem:** If you encounter any bugs or issues, you can report it here. Please, the more detailed you describe the problem, the faster you will help resolve it.
-2. **Ideas and Improvements:** If you have new suggestions or ideas for improving the project, you can share them here. Your community feedback is important.
-3. **Share Your Projects:** You can showcase the projects or works you wrote during your Python learning journey here. Share your experiences with other learners.
-
 ---
 
 ## 🤝 Contribution
@@ -128,22 +111,4 @@ This project is open source, and we welcome contributions from the community. If
 5. Open a pull request in the main repository.
 
 ---
-
-## 💰 Support the Project
-
-If you find this project helpful, please consider supporting me. 
-Your support allows me to dedicate more time and effort to creating useful projects like Python30Days and developing new tools and resources. 
-By contributing, you're not only helping improve existing tools but also inspiring new ideas and innovations.
-Thank you for your support! Together, let's continue building and learning.
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/halildeniz) 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/denizhalil)
-
-Happy coding, and enjoy your Python learning journey!
-
----
-
-## License
-
-**Python Learning Roadmap in 30 Days** is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file.
 
