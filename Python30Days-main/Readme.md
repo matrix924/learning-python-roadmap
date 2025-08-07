@@ -12,11 +12,6 @@ Python is a high-level, versatile programming language known for its readability
 It has a vast community and is widely used in various fields, including web development, data science, machine learning, automation, and more. 
 This roadmap is perfect for beginners and anyone looking to solidify their Python skills.
 
-<h4 align="center">
-<a href="https://buymeacoffee.com/halildeniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</h4>
----
-
 ## 🛠️ **How to Use**
 The project is organized into separate sections for each day, making it easy for you to follow along. 
 Each day focuses on specific topics and provides practical examples and exercises to reinforce your learning.
@@ -111,4 +106,5 @@ This project is open source, and we welcome contributions from the community. If
 5. Open a pull request in the main repository.
 
 ---
+
 
